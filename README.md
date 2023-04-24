@@ -1,9 +1,3 @@
-### Hi there 👋
-
-<!--
-**Navaneeth124/Navaneeth124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 # 💫 About Me:
 🔭 I’m a Master's Graduate in Mathematics<br>🌱 I’m currently learning Data Science, ML, NLP<br>👯 I’m looking for an Internship as Data Scientist<br>📫 Reach me on Linkedin https://www.linkedin.com/in/navaneetha-krishnan-r-87550326n/
 

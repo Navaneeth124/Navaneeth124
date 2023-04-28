@@ -14,5 +14,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Navaneeth124&icon=0&color=11)](https://visitcount.itsvg.in)
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Navaneeth124&label=Profile%20Views&color=0&icon=5&pretty=true" />
+</a>
 

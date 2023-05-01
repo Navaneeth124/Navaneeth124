@@ -1,4 +1,4 @@
-## Hi there, this is Navaneetha Krishnan R
+# Hi there, this is Navaneetha Krishnan R
 
 # 💫 About Me:
 🔭 I’m a Master's Graduate in Mathematics<br>🌱 I’m currently learning Data Science, ML, NLP<br>👯 I’m looking for an Internship as Data Scientist<br>📫 Reach me on Linkedin https://www.linkedin.com/in/navaneetha-krishnan-r-87550326n/

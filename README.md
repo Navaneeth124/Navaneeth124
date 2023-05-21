@@ -15,7 +15,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Navaneeth124&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-<a
   <img src="https://visitcount.itsvg.in/api?id=Navaneeth124&label=Profile%20Views&color=0&icon=5&pretty=true" />
 </a>
 

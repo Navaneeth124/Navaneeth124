@@ -68,14 +68,6 @@ I enjoy working with distributed data processing systems, modern data lake archi
 
 ---
 
-##  Featured Projects
-
-###  Real-Time Attribution Dashboard
-Built a real-time analytics platform using GA4, BigQuery, dbt and Streamlit for marketing attribution and live KPI reporting.
-
-**Tech:** Python • BigQuery • dbt • Streamlit • SQL
-
----
 
 ###  Apache Iceberg ETL Pipeline
 
@@ -94,11 +86,8 @@ Built scalable ETL pipelines for processing structured and semi-structured datas
 ##  GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Navaneeth124&show_icons=true&theme=default&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navaneeth124&layout=compact&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Navaneeth124&show_icons=true&theme=default&hide_border=true" alt="Navaneeth124's GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navaneeth124&layout=compact&theme=default&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---

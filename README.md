@@ -5,7 +5,7 @@
 - 🎓 Master's Graduate in Mathematics
 - 🌱 Currently learning Data Science, Machine Learning, and NLP
 - 👯 Aspiring Data Scientist
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/navaneetha-krishnan-r-87550326n/)
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/navaneethan1998/)
 
 ## 🌐 Socials
 
